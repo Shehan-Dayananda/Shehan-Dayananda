@@ -52,8 +52,8 @@ I thrive at the sweet spot where **creative visualization meets interactive code
     <tr>
       <!-- left Stats Card  -->
       <td valign="top" style="border: none;">
- <!-- Profile Details Card (Stats & Languages) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shehan-Dayananda&theme=gotham" alt="Shehan's GitHub Stats" />
+<!-- GitHub Repo Widget -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shehan-Dayananda&show_icons=true&theme=gotham" alt="Shehan's Stats" />
       </td>
       <!-- right Streak Card  -->
       <td valign="top" style="border: none;">
