@@ -25,16 +25,16 @@ I exist at the intersection of **stunning visuals** and **clean engineering**. H
 
 ---
 
-## 🎨 Creative Showcase (My Masterpieces)
+## Creative Showcase (My Masterpieces)
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <b>📐 UI/UX Space</b><br/><br/>
+      <b>UI/UX Space</b><br/><br/>
       <img src="image-1-path.png" alt="UI Design Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
     </td>
     <td width="50%" align="center">
-      <b>🌀 3D & Blender Workspace</b><br/><br/>
+      <b>3D & Blender Workspace</b><br/><br/>
       <img src="image-2-path.png" alt="3D Render Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
     </td>
   </tr>
@@ -42,7 +42,7 @@ I exist at the intersection of **stunning visuals** and **clean engineering**. H
 
 ---
 
-## 🛠️ The Tech & Design Stack
+## The Tech & Design Stack
 
 <table width="100%">
   <tr>
@@ -66,7 +66,7 @@ I exist at the intersection of **stunning visuals** and **clean engineering**. H
 
 ---
 
-## 📊 Next-Gen Analytics & Metrics
+## Analytics & Metrics
 
 <div align="center">
   <!-- GitHub Activity Graphs -->
