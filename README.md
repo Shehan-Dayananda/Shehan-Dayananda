@@ -44,7 +44,6 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 <p align="left">
   <img src="https://skillicons.dev/icons?i=blender,figma,java,react,unity,js,ts,nodejs,php,laravel,mongodb,html,css,git,vscode" alt="My Tech & Design Stack" />
 </p>
----
 
 ## Analytics & Git Metrics
 
