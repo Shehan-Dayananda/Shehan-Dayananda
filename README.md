@@ -26,7 +26,6 @@ I exist at the intersection of **stunning visuals** and **clean engineering**. H
 ---
 
 ## 🎨 Creative Showcase (My Masterpieces)
-> **💡 Design & 3D Pro-Tip:** Repository එකට ඔයාගේ හොඳම 3D render එකක හෝ UI design එකක screenshots (PNG/JPG) දෙකක් දාලා, පහළ තියෙන `image-1-path.png` වගේ තැන් වලට ඒ file names replace කරන්න. එතකොට profile එකේම grid එකක් විදියට showcase වෙනවා!
 
 <table width="100%">
   <tr>
