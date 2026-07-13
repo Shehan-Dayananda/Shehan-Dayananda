@@ -35,7 +35,7 @@
     <circle cx="0" cy="0" r="130" fill="none" stroke="rgba(124,58,237,0.04)" stroke-width="1" stroke-dasharray="4,4"/>
     
     <g filter="url(#glow)" opacity="0">
-      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.28;0.33;1" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0;0;0" keyTimes="0;0.04;0.29;0.33;0.96;1" dur="12s" repeatCount="indefinite"/>
       <g transform="scale(1.4)">
         <path d="M0 -60 L52 -30 L0 0 L-52 -30 Z" fill="url(#cubeGrad)" fill-opacity="0.25" stroke="#38BDF8" stroke-width="2"/>
         <path d="M-52 -30 L0 0 L0 60 L-52 30 Z" fill="url(#cubeGrad)" fill-opacity="0.15" stroke="#38BDF8" stroke-width="2"/>
@@ -49,7 +49,7 @@
     </g>
 
     <g filter="url(#glow)" opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.38;0.61;0.66;1" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.35;0.39;0.62;0.66;1" dur="12s" repeatCount="indefinite"/>
       <g transform="scale(3.8)">
         <ellipse rx="16" ry="6" fill="none" stroke="#61DAFB" stroke-width="1.6" transform="rotate(0)"/>
         <ellipse rx="16" ry="6" fill="none" stroke="#61DAFB" stroke-width="1.6" transform="rotate(60)"/>
@@ -58,14 +58,14 @@
       </g>
     </g>
 
-    <g transform="translate(-40,-50)" filter="url(#glow)" opacity="0">
-      <animate attributeName="opacity" values="0;0;0;1;1;0" keyTimes="0;0.66;0.71;0.95;0.98;1" dur="12s" repeatCount="indefinite"/>
-      <g transform="scale(3.2)">
-        <path d="M8 0h4a4 4 0 1 1 0 8H8V0z" fill="#2563EB"/>
-        <path d="M0 8a4 4 0 0 1 4-4h4v8H4a4 4 0 0 1-4-4z" fill="#38BDF8"/>
-        <path d="M0 0a4 4 0 0 1 4-4h4v8H4a4 4 0 0 1-4-4z" fill="#1D4ED8" transform="rotate(180 4 2)"/>
-        <path d="M0 16a4 4 0 0 1 4-4h4v4a4 4 0 0 1-4 4 4 4 0 0 1-4-4z" fill="#60A5FA"/>
+    <g filter="url(#glow)" opacity="0">
+      <animate attributeName="opacity" values="0;0;0;1;1;0" keyTimes="0;0.68;0.72;0.95;0.98;1" dur="12s" repeatCount="indefinite"/>
+      <g transform="translate(-33.6, -50.4) scale(4.2)">
+        <path d="M0 4a4 4 0 0 1 4-4h4v8H4a4 4 0 0 1-4-4z" fill="#1D4ED8"/>
+        <path d="M8 0h4a4 4 0 0 1 4 4 4 4 0 0 1-4 4H8V0z" fill="#2563EB"/>
+        <path d="M0 12a4 4 0 0 1 4-4h4v8H4a4 4 0 0 1-4-4z" fill="#38BDF8"/>
         <circle cx="12" cy="12" r="4" fill="#0EA5E9"/>
+        <path d="M0 20a4 4 0 0 1 4-4h4v4a4 4 0 0 1-4 4 4 4 0 0 1-4-4z" fill="#60A5FA"/>
       </g>
     </g>
   </g>
