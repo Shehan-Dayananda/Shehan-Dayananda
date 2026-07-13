@@ -4,12 +4,12 @@
   
   <br/>
   
-  <!-- DYNAMIC TYPING EFFECT & BADGES -->
-  <h2>🚀 Transforming Concepts into High-Fidelity 3D & Digital Realities</h2>
+  <!-- DYNAMIC ROLES -->
+  <h2>🚀 3D Artist | UI/UX Designer | Frontend Developer</h2>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Focus-UI%2FUX%20%7C%203D%20Art%20%7C%20Full%23Stack-ff007f?style=for-the-badge" />
-    <img src="https://komarev.com/ghpvc/?username=Shehan-Dayananda&label=PROFILE%20VIEWS&color=00f2ff&style=for-the-badge" alt="Views" />
+    <img src="https://img.shields.io/badge/Core-3D%20%7C%20UI%2FUX%20%7C%20Frontend-00f2ff?style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=Shehan-Dayananda&label=PROFILE%20VIEWS&color=ff007f&style=for-the-badge" alt="Views" />
   </p>
 </div>
 
@@ -17,56 +17,59 @@
 
 ## 🌌 About My Craft
 
-I exist at the intersection of **stunning visuals** and **clean engineering**. Heavily inspired by **Seinen anime aesthetics** and minimalist modern philosophy, I build high-end UI interfaces, intricate 3D assets, and robust applications.
+I thrive at the sweet spot where **creative visualization meets interactive code**. I don't just build components—I design immersive digital environments, pixel-perfect interfaces, and highly performant frontend systems. 
 
-* 🖌️ **Visual Architect:** Specializing in high-fidelity service marketplaces and clean interface experiences.
-* 📦 **3D Environment & Assets:** Sculpting, poly-modeling, detailed texturing, and asset lighting inside **Blender**.
-* ⚡ **Full-Stack Logic:** Driving front-ends with **React / React Native** and robust architectures via **Node.js & MongoDB**.
+* 📦 **3D Space & Asset Creation:** Sculpting, hard-surface modeling, complex texturing, and realistic studio lighting within **Blender**.
+* 📐 **UI/UX Engineering:** Crafting research-driven wireframes, high-fidelity responsive web layout maps, and scalable design systems.
+* 💻 **Frontend Development:** Translating premium aesthetic designs into interactive, smooth web apps using modern JavaScript frameworks like **React** and mobile stacks via **React Native**.
 
 ---
 
 ## 🎨 Creative Showcase (My Masterpieces)
+> **💡 Image Upload Guide:** Repo එකට `image_1.png` සහ `image_2.png` විදියට ඔයාගේ හොඳම UI Layout එකක් සහ 3D render එකක් upload කරලා, පහත `src=""` ඇතුළත තියෙන URL කෑලි replace කරගන්න.
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <b>📐 UI/UX Space</b><br/><br/>
-      <img src="image-1-path.png" alt="UI Design Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
+      <b>📐 UI/UX Layouts & Interfaces</b><br/><br/>
+      <img src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/image_1.png" alt="UI Design Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
     </td>
     <td width="50%" align="center">
-      <b>🌀 3D & Blender Workspace</b><br/><br/>
-      <img src="image-2-path.png" alt="3D Render Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
+      <b>🌀 3D Renders & Blender Space</b><br/><br/>
+      <img src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/image_2.png" alt="3D Render Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ The Tech & Design Stack
+## 🛠️ The Professional Toolkit
 
 <table width="100%">
   <tr>
+    <!-- COLUMN 1: VISUALS -->
     <td width="50%" valign="top">
-      <h4>📐 Creative & 3D Tools</h4>
+      <h4>📐 3D Art & UI/UX Design</h4>
       <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
       <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
     </td>
+    <!-- COLUMN 2: CODE -->
     <td width="50%" valign="top">
-      <h4>💻 Full-Stack Development</h4>
+      <h4>💻 Frontend Tech Stack</h4>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 Next-Gen Analytics & Metrics
+## 📊 Next-Gen Git Analytics & Metrics
 
 <div align="center">
   <!-- GitHub Activity Graphs -->
@@ -94,5 +97,5 @@ I exist at the intersection of **stunning visuals** and **clean engineering**. H
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/purple_line.png" width="100%" />
   <br/>
   <h3>⚡ "Simplicity is the ultimate sophistication." ⚡</h3>
-  <p><i>Crafting interfaces, lighting up meshes, and coding the future.</i></p>
+  <p><i>Sculpting meshes, engineering interfaces, and compiling clean frontends.</i></p>
 </div>
