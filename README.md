@@ -41,16 +41,9 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 
 ## 🛠️ The Tech & Design Stack
 
-#### 🎨 Creative & 3D Engineering
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,figma,ps" alt="Creative Tools" />
+  <img src="https://skillicons.dev/icons?i=blender,figma,ps,react,js,nodejs,mongodb,html,css" alt="My Tech & Design Stack" />
 </p>
-
-#### 💻 Software & Frontend Architecture
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,html,css" alt="Dev Stack" />
-</p>
-
 ---
 
 ## 📊 Analytics & Git Metrics
