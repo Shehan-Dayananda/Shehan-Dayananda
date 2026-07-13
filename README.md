@@ -47,7 +47,7 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 ---
 
 ## 📊 Analytics & Git Metrics
-![Shehan's 3D GitHub Calendar](https://github-readme-3d-calendar.vercel.app/api?username=Shehan-Dayananda&theme=dark)
+![Shehan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shehan-Dayananda&theme=react-dark&bg_color=0d1117&hide_border=true)
 ---
 
 <div align="center">
