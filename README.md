@@ -42,7 +42,7 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 ## 🛠️ The Tech & Design Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,figma,ps,react,js,nodejs,mongodb,html,css" alt="My Tech & Design Stack" />
+  <img src="https://skillicons.dev/icons?i=blender,figma,ps,react,reactnative,js,ts,nodejs,php,laravel,mongodb,html,css,git,vscode" alt="My Tech & Design Stack" />
 </p>
 ---
 
