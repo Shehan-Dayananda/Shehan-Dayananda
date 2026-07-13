@@ -62,7 +62,7 @@
       <g class="terminal-body" transform="translate(0, 150)">
         <text x="0" y="20" opacity="0">
           <animate attributeName="opacity" from="0" to="1" begin="1s" dur="0.5s" fill="freeze"/>
-          <tspan fill="#38BDF8">❯ location:</tspan> <tspan fill="#F1F5F9">Colombo, Sri Lanka</tspan>
+          <tspan fill="#38BDF8">❯ location:</tspan> <tspan fill="#F1F5F9">Rathnapura, Sri Lanka</tspan>
         </text>
         <text x="0" y="50" opacity="0">
           <animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.5s" fill="freeze"/>
