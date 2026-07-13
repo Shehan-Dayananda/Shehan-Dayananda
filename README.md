@@ -26,42 +26,49 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 ---
 
 ## 🎨 Creative Showcase (My Masterpieces)
-> **💡 Image Upload Guide:** Repo එකට `image_1.png` සහ `image_2.png` විදියට ඔයාගේ හොඳම UI Layout එකක් සහ 3D render එකක් upload කරලා, පහත `src=""` ඇතුළත තියෙන URL කෑලි replace කරගන්න.
+> **💡 Image Upload Guide:** Repo එකට `image_1.png` (UI), `image_2.png` (3D), සහ `image_3.png` (Frontend App Screenshot) විදියට upload කළාම මේ table එක auto-update වෙයි.
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <b>📐 UI/UX Layouts & Interfaces</b><br/><br/>
+    <td width="33.33%" align="center" valign="top">
+      <b>📐 UI/UX Interfaces</b><br/><br/>
       <img src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/image_1.png" alt="UI Design Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
     </td>
-    <td width="50%" align="center">
-      <b>🌀 3D Renders & Blender Space</b><br/><br/>
+    <td width="33.33%" align="center" valign="top">
+      <b>🌀 3D & Blender Space</b><br/><br/>
       <img src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/image_2.png" alt="3D Render Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <b>💻 Frontend Applications</b><br/><br/>
+      <img src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/image_3.png" alt="Frontend Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ The Professional Toolkit
+## 🛠️ The Tech & Design Stack
 
 <table width="100%">
   <tr>
-    <!-- COLUMN 1: VISUALS -->
-    <td width="50%" valign="top">
-      <h4>📐 3D Art & UI/UX Design</h4>
-      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <!-- COLUMN 1: 3D ART -->
+    <td width="33.33%" valign="top">
+      <h4>📦 3D Art</h4>
+      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
     </td>
-    <!-- COLUMN 2: CODE -->
-    <td width="50%" valign="top">
-      <h4>💻 Frontend Tech Stack</h4>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <!-- COLUMN 2: UI/UX -->
+    <td width="33.33%" valign="top">
+      <h4>📐 UI/UX Design</h4>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    </td>
+    <!-- COLUMN 3: FRONTEND -->
+    <td width="33.33%" valign="top">
+      <h4>💻 Frontend Development</h4>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/><br/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
   </tr>
