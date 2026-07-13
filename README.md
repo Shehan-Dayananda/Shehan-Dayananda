@@ -24,11 +24,11 @@ I thrive at the sweet spot where **creative visualization meets interactive code
   <tr>
     <td width="33.33%" align="center" valign="top">
       <b>📐 UI/UX Interfaces</b><br/><br/>
-      <img src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/image_1.png" alt="UI Design Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
+      <img src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/image_2.png" alt="UI Design Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
     </td>
     <td width="33.33%" align="center" valign="top">
       <b>🌀 3D & Blender Space</b><br/><br/>
-      <img src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/https://github.com/Shehan-Dayananda/image_and_video/blob/main/Robot.png?raw=true" alt="3D Render Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
+      <img src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/image_1.png" alt="3D Render Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
     </td>
     <td width="33.33%" align="center" valign="top">
       <b>💻 Frontend Applications</b><br/><br/>
