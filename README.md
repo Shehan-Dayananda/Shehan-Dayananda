@@ -48,19 +48,13 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shehan-Dayananda&show_icons=true&theme=gotham&v=2" alt="Shehan's GitHub Stats" />
+  <img src="https://github-metrics.com/api?username=Shehan-Dayananda&theme=dark-green" alt="Shehan's GitHub Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehan-Dayananda&layout=compact&theme=gotham&v=2" alt="Most Used Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shehan-Dayananda&theme=react-dark&color=2ea44f&line=2ea44f&point=2ea44f&bg_color=0d1117&hide_border=true&v=2" alt="Shehan's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shehan-Dayananda&theme=react-dark&color=2ea44f&line=2ea44f&point=2ea44f&bg_color=0d1117&hide_border=true&v=3" alt="Shehan's Activity Graph" width="100%" />
 </div>
 ---
 
