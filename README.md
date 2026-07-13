@@ -1,9 +1,5 @@
 <!-- PREMIUM RESPONSIVE LIGHT/DARK TOGGLE HERO BANNER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/light.svg">
-  <img alt="Shehan Dayananda Premium Header" src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/dark.svg" width="100%">
-</picture>
+![](https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/dark.svg)
 
 ---
 
