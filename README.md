@@ -49,7 +49,7 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 
 <p align="center">
   <!-- වම් පැත්තේ Stats Card එක -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shehan-Dayananda&theme=gotham" alt="Shehan's GitHub Stats" height="195" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shehan-Dayananda&show_icons=true&theme=gotham" alt="Shehan's Stats" />
   &nbsp;&nbsp;
   <!-- දකුණු පැත්තේ Streak Card එක -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan-dayananda&theme=gotham&hide_border=true&v=3" alt="GitHub Streak" height="195" />
