@@ -49,18 +49,14 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 
 ## 📊 Analytics & Git Metrics
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shehan-Dayananda&theme=tokyonight&area=true&category=commits" width="100%" />
-  
-  <br/><br/>
-  
-  <table width="100%">
-    <tr>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Shehan-Dayananda&show_icons=true&theme=tokyonight&count_private=true" width="100%" /></td>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehan-Dayananda&layout=compact&theme=tokyonight" width="100%" /></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shehan-Dayananda&theme=github_dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shehan-Dayananda&theme=github_dark" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shehan-Dayananda&theme=github_dark" alt="Profile Details" width="97.5%" />
+</p>
 
 ---
 
