@@ -37,6 +37,17 @@ I thrive at the sweet spot where **creative visualization meets interactive code
   </tr>
 </table>
 
+## 🛠️ The Tech & Design Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=blender,figma,ps,react,reactnative,js,ts,nodejs,php,laravel,mongodb,html,css,git,vscode&perline=15" alt="My Tech & Design Stack" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/Shehan-Dayananda">
+    <img src="https://html-marquee.vercel.app/api/marquee?v=2&bg=0f172a&text=%20%20🎨%20CREATIVE%203D%20%20|%20%20✨%20UI/UX%20DESIGN%20%20|%20%20💻%20FRONTEND%20ARCHITECTURE%20%20|%20%20🚀%20FULL-STACK%20DEVELOPMENT%20%20&color=38bdf8&size=16&font=monospace" alt="Animated Text Divider" />
+  </a>
+</p>
 ---
 ## 📊 Analytics & Git Metrics
 
