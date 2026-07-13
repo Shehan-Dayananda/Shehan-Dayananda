@@ -49,27 +49,20 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 
 <div align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shehan-Dayananda&theme=github-green&bg_color=0d1117&hide_border=true" alt="Shehan's Activity Graph" width="98%" style="border-radius: 12px; border: 2px solid #2ea44f; box-shadow: 0px 8px 24px rgba(46, 164, 79, 0.2); margin-bottom: 15px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shehan-Dayananda&theme=github-green&bg_color=0d1117&hide_border=true" alt="Shehan's Activity Graph" width="98%" />
 </div>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- Stats Card -->
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Shehan-Dayananda&show_icons=true&theme=github_dark&icon_color=2ea44f&text_color=ffffff&title_color=2ea44f&bg_color=0d1117&hide_border=true" alt="Shehan's GitHub Stats" width="95%" style="border-radius: 12px; border: 2px solid #2ea44f; box-shadow: 0px 8px 24px rgba(46, 164, 79, 0.15);" />
-    </td>
-    <!-- Most Used Languages -->
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehan-Dayananda&layout=compact&theme=github_dark&text_color=ffffff&title_color=2ea44f&bg_color=0d1117&hide_border=true" alt="Most Used Languages" width="95%" style="border-radius: 12px; border: 2px solid #2ea44f; box-shadow: 0px 8px 24px rgba(46, 164, 79, 0.15);" />
-    </td>
-  </tr>
-</table>
-
-<br />
+<p align="center">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Shehan-Dayananda&show_icons=true&theme=github_dark&icon_color=2ea44f&text_color=ffffff&title_color=2ea44f&bg_color=0d1117&hide_border=true" alt="Shehan's GitHub Stats" width="48%" />
+  &nbsp;
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehan-Dayananda&layout=compact&theme=github_dark&text_color=ffffff&title_color=2ea44f&bg_color=0d1117&hide_border=true" alt="Most Used Languages" width="48%" />
+</p>
 
 <div align="center">
   <!-- Current Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehan-Dayananda&theme=github-green-light&background=0d1117&fire=2ea44f&ring=2ea44f&currStreakLabel=2ea44f&hide_border=true" alt="GitHub Streak" width="98%" style="border-radius: 12px; border: 2px solid #2ea44f; box-shadow: 0px 8px 24px rgba(46, 164, 79, 0.2);" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehan-Dayananda&theme=github-green-light&background=0d1117&fire=2ea44f&ring=2ea44f&currStreakLabel=2ea44f&hide_border=true" alt="GitHub Streak" width="98%" />
 </div>
 ---
 
