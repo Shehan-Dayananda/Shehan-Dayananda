@@ -31,10 +31,8 @@ I thrive at the sweet spot where **creative visualization meets interactive code
       <img src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/image_1.png" alt="3D Render Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
     </td>
     <td width="33.33%" align="center" valign="top">
-      <b>💻 Frontend Applications</b><br/><br/>
-      <img src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/
-
-https://github.com/user-attachments/assets/8840e91c-cda4-45ac-a325-d67536b3f921
+    <b>💻 Frontend Applications</b><br/><br/>
+    <video src="https://github.com/user-attachments/assets/8840e91c-cda4-45ac-a325-d67536b3f921" width="100%" controls style="border-radius: 8px; border: 1px solid #30363d;"></video>
 
 " alt="Frontend Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
     </td>
