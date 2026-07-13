@@ -47,27 +47,19 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 ---
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <table>
-    <tr>
-      <!-- left Stats Card  -->
-      <td valign="top" style="border: none;">
-<!-- GitHub Repo Widget -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shehan-Dayananda&show_icons=true&theme=gotham" alt="Shehan's Stats" />
-      </td>
-      <!-- right Streak Card  -->
-      <td valign="top" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan-dayananda&theme=gotham&hide_border=true&v=2" alt="GitHub Streak" height="200" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <!-- වම් පැත්තේ Stats Card එක -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shehan-Dayananda&theme=gotham" alt="Shehan's GitHub Stats" height="195" />
+  &nbsp;&nbsp;
+  <!-- දකුණු පැත්තේ Streak Card එක -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan-dayananda&theme=gotham&hide_border=true&v=3" alt="GitHub Streak" height="195" />
+</p>
 
 <br>
 
 <div align="center">
-  <!-- Neon Green Activity Graph  -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehan-dayananda&theme=react-dark&color=2ea44f&line=2ea44f&point=2ea44f&bg_color=0d1117&hide_border=true&v=6" alt="Shehan's Activity Graph" width="100%" />
+  <!-- Neon Green Activity Graph එක පහළින් -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehan-dayananda&theme=react-dark&color=2ea44f&line=2ea44f&point=2ea44f&bg_color=0d1117&hide_border=true&v=7" alt="Shehan's Activity Graph" width="100%" />
 </div>
 ---
 
