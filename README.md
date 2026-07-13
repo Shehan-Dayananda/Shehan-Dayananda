@@ -38,19 +38,6 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 </table>
 
 ---
-
-## The Tech & Design Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,figma,java,react,unity,js,ts,nodejs,php,laravel,mongodb,html,css,git,vscode" alt="My Tech & Design Stack" />
-</p>
-
-## Analytics & Git Metrics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shehan-Dayananda&theme=tokyonight&area=true&category=commits" width="100%" />
-  
-  <br/><br/>
 ## 📊 Analytics & Git Metrics
 
 <p align="center">
@@ -61,13 +48,6 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shehan-Dayananda&theme=github_dark" alt="Profile Details" width="97.5%" />
 </p>
-  <table width="100%">
-    <tr>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Shehan-Dayananda&show_icons=true&theme=tokyonight&count_private=true" width="100%" /></td>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehan-Dayananda&layout=compact&theme=tokyonight" width="100%" /></td>
-    </tr>
-  </table>
-</div>
 
 ---
 
