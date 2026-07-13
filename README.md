@@ -36,14 +36,13 @@ I thrive at the sweet spot where **creative visualization meets interactive code
     </td>
   </tr>
 </table>
-
-<!-- START ANIMATED TECH STACK SECTION -->
+<!-- START 100% WORKING ANIMATED TECH STACK -->
 ## 🛠️ The Tech & Design Stack
 
-<marquee behavior="scroll" direction="left" scrollamount="4">
-  <img src="https://skillicons.dev/icons?i=blender,figma,ps,react,reactnative,js,ts,nodejs,php,laravel,mongodb,html,css,git,vscode" alt="My Tech & Design Stack" />
-</marquee>
-<!-- END ANIMATED TECH STACK SECTION -->
+<p align="left">
+  <img src="https://mohammad-reza-r.github.io/animated-fluent-icons/marquee.svg?icons=blender,figma,photoshop,react,js,typescript,nodejs,php,laravel,mongodb,html,css,git,vscode&speed=35&theme=dark" alt="Animated Tech Stack" width="100%" />
+</p>
+<!-- END 100% WORKING ANIMATED TECH STACK -->
 ---
 ## 📊 Analytics & Git Metrics
 
