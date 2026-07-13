@@ -7,17 +7,17 @@
 
 ---
 
-## 🌌 About My Craft
+## About My Craft
 
 I thrive at the sweet spot where **creative visualization meets interactive code**. I don't just build components—I design immersive digital environments, pixel-perfect interfaces, and highly performant frontend systems. 
 
-* 📦 **3D Space & Asset Creation:** Sculpting, hard-surface modeling, complex texturing, and realistic studio lighting within **Blender**.
-* 📐 **UI/UX Engineering:** Crafting research-driven wireframes, high-fidelity responsive web layout maps, and scalable design systems.
-* 💻 **Frontend Development:** Translating premium aesthetic designs into interactive, smooth web apps using modern JavaScript frameworks like **React**.
+* **3D Space & Asset Creation:** Sculpting, hard-surface modeling, complex texturing, and realistic studio lighting within **Blender**.
+* **UI/UX Engineering:** Crafting research-driven wireframes, high-fidelity responsive web layout maps, and scalable design systems.
+* **Frontend Development:** Translating premium aesthetic designs into interactive, smooth web apps using modern JavaScript frameworks like **React**.
 
 ---
 
-## 🎨 Creative Showcase (My Masterpieces)
+## Creative Showcase (My Masterpieces)
 > **💡 Image Upload Guide:** Repo එකට `image_1.png` (UI), `image_2.png` (3D), සහ `image_3.png` (Frontend) විදියට upload කළාම මේ table එක auto-render වෙයි.
 
 <table width="100%">
@@ -42,7 +42,7 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 ## 🛠️ The Tech & Design Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,figma,ps,react,reactnative,js,ts,nodejs,php,laravel,mongodb,html,css,git,vscode" alt="My Tech & Design Stack" />
+  <img src="https://skillicons.dev/icons?i=blender,figma,java,react,unity,js,ts,nodejs,php,laravel,mongodb,html,css,git,vscode" alt="My Tech & Design Stack" />
 </p>
 
 ---
