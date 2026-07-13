@@ -48,7 +48,7 @@
     <circle cx="25" cy="25" r="6" fill="#EF4444"/>
     <circle cx="45" cy="25" r="6" fill="#F59E0B"/>
     <circle cx="65" cy="25" r="6" fill="#10B981"/>
-    <text x="330" y="30" text-anchor="middle" class="txt-muted" font-size="12">shehan@architecture:~</text>
+  
 
     <g transform="translate(30, 80)">
       <text x="0" y="20" class="txt-primary" font-size="24">Hi </text>
