@@ -54,25 +54,13 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 ## 📊 Analytics & Git Metrics
 
 <p align="center">
-  <a href="https://github.com/Shehan-Dayananda">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehan-Dayananda&theme=tokyonight" alt="GitHub Streak Stats" height="170" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shehan-Dayananda&theme=github_dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shehan-Dayananda&theme=github_dark" alt="Top Languages" width="48%" />
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" style="border: none;">
-      <a href="https://github.com/Shehan-Dayananda">
-        <img src="https://github-readme-stats.vercel.app/api?username=Shehan-Dayananda&show_icons=true&theme=tokyonight" alt="Shehan's GitHub Stats" height="180" />
-      </a>
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <a href="https://github.com/Shehan-Dayananda">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehan-Dayananda&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shehan-Dayananda&theme=github_dark" alt="Profile Details" width="97.5%" />
+</p>
   <table width="100%">
     <tr>
       <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Shehan-Dayananda&show_icons=true&theme=tokyonight&count_private=true" width="100%" /></td>
