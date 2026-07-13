@@ -48,15 +48,15 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Profile Details Card (Stats & Languages ඔක්කොම මේකේ තියෙනවා) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shehan-Dayananda&theme=gotham" alt="Shehan's GitHub Stats" />
+  <!-- GitHub නිල Repo Widget එක (Stats වෙනුවට) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shehan-Dayananda&show_icons=true&theme=gotham" alt="Shehan's Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Neon Green Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehan-dayananda&theme=react-dark&color=2ea44f&line=2ea44f&point=2ea44f&bg_color=0d1117&hide_border=true&v=4" alt="Shehan's Activity Graph" width="100%" />
+  <!-- Activity Graph එක පහළින්ම -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehan-dayananda&theme=react-dark&color=2ea44f&line=2ea44f&point=2ea44f&bg_color=0d1117&hide_border=true" alt="Shehan's Activity Graph" width="100%" />
 </div>
 ---
 
