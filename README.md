@@ -32,7 +32,11 @@ I thrive at the sweet spot where **creative visualization meets interactive code
     </td>
     <td width="33.33%" align="center" valign="top">
       <b>💻 Frontend Applications</b><br/><br/>
-      <img src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/image_3.png" alt="Frontend Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
+      <img src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/
+
+https://github.com/user-attachments/assets/8840e91c-cda4-45ac-a325-d67536b3f921
+
+" alt="Frontend Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
     </td>
   </tr>
 </table>
