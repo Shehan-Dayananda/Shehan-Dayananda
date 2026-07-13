@@ -18,7 +18,6 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 ---
 
 ## Creative Showcase (My Masterpieces)
-> **💡 Image Upload Guide:** Repo එකට `image_1.png` (UI), `image_2.png` (3D), සහ `image_3.png` (Frontend) විදියට upload කළාම මේ table එක auto-render වෙයි.
 
 <table width="100%">
   <tr>
@@ -33,8 +32,6 @@ I thrive at the sweet spot where **creative visualization meets interactive code
     <td width="33.33%" align="center" valign="top">
     <b>💻 Frontend Applications</b><br/><br/>
     <video src="https://github.com/user-attachments/assets/8840e91c-cda4-45ac-a325-d67536b3f921" width="100%" controls style="border-radius: 8px; border: 1px solid #30363d;"></video>
-
-" alt="Frontend Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
     </td>
   </tr>
 </table>
