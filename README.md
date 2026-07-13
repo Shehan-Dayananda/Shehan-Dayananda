@@ -48,21 +48,19 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shehan-Dayananda&theme=github-green&bg_color=0d1117&hide_border=true" alt="Shehan's Activity Graph" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shehan-Dayananda&show_icons=true&theme=github_dark" alt="Shehan's GitHub Stats" />
 </div>
 
-<p align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Shehan-Dayananda&show_icons=true&theme=github_dark&icon_color=2ea44f&text_color=ffffff&title_color=2ea44f&bg_color=0d1117&hide_border=true" alt="Shehan's GitHub Stats" width="48%" />
-  &nbsp;
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehan-Dayananda&layout=compact&theme=github_dark&text_color=ffffff&title_color=2ea44f&bg_color=0d1117&hide_border=true" alt="Most Used Languages" width="48%" />
-</p>
+<br>
 
 <div align="center">
-  <!-- Current Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shehan-Dayananda&theme=github-green-light&background=0d1117&fire=2ea44f&ring=2ea44f&currStreakLabel=2ea44f&hide_border=true" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehan-Dayananda&layout=compact&theme=github_dark" alt="Most Used Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shehan-Dayananda&theme=github-green&bg_color=0d1117&hide_border=true" alt="Shehan's Activity Graph" width="100%" />
 </div>
 ---
 
