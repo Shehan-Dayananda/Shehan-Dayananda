@@ -38,14 +38,14 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 
 ---
 
-## 🛠️ The Tech & Design Stack
+## The Tech & Design Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=blender,figma,java,react,unity,js,ts,nodejs,php,laravel,mongodb,html,css,git,vscode" alt="My Tech & Design Stack" />
 </p>
 
 ---
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <table>
