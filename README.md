@@ -55,15 +55,14 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" style="border: none; padding-right: 10px;">
-      <a href="https://github.com/Shehan-Dayananda/dakshaya-lk">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shehan-Dayananda&repo=dakshaya-lk&theme=tokyonight&show_owner=true" alt="Dakshaya.LK" width="100%" />
-      </a>
-    </td>
-    <td width="50%" valign="top" style="border: none; padding-left: 10px;">
-      <a href="https://github.com/Shehan-Dayananda/bus-tracking-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shehan-Dayananda&repo=bus-tracking-app&theme=tokyonight&show_owner=true" alt="Bus Tracking App" width="100%" />
-      </a>
+    <td width="50%" valign="top" style="border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 15px; background: #0f172a;">
+      <h3 style="margin-top: 0; color: #38bdf8;">🚀 දක්ෂයා.LK</h3>
+      <p style="color: #94a3b8; font-size: 14px;">A premium freelance marketplace platform built for local creators and clients.</p>
+      <div style="margin-top: 10px;">
+        <img src="https://img.shields.io/badge/React_JS-%2320232a.svg?style=flat&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs" alt="Node" />
+        <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb" alt="Mongo" />
+      </div>
     </td>
   </tr>
 </table>
