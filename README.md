@@ -50,12 +50,12 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 <div align="center">
   <table>
     <tr>
-      <!-- වම් පැත්තේ Stats Card එක -->
+      <!-- left Stats Card  -->
       <td valign="top" style="border: none;">
-       <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan-dayananda&theme=gotham&hide_border=true&v=1" alt="GitHub Streak" />
+ <!-- Profile Details Card (Stats & Languages) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shehan-Dayananda&theme=gotham" alt="Shehan's GitHub Stats" />
       </td>
-      <!-- දකුණු පැත්තේ Streak Card එක -->
+      <!-- right Streak Card  -->
       <td valign="top" style="border: none;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan-dayananda&theme=gotham&hide_border=true&v=2" alt="GitHub Streak" height="200" />
       </td>
@@ -66,7 +66,7 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 <br>
 
 <div align="center">
-  <!-- Neon Green Activity Graph එක පහළින් -->
+  <!-- Neon Green Activity Graph  -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehan-dayananda&theme=react-dark&color=2ea44f&line=2ea44f&point=2ea44f&bg_color=0d1117&hide_border=true&v=6" alt="Shehan's Activity Graph" width="100%" />
 </div>
 ---
