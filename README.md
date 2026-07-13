@@ -52,7 +52,8 @@ I thrive at the sweet spot where **creative visualization meets interactive code
     <tr>
       <!-- වම් පැත්තේ Stats Card එක -->
       <td valign="top" style="border: none;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shehan-Dayananda&theme=gotham" alt="Shehan's GitHub Stats" height="200" />
+       <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan-dayananda&theme=gotham&hide_border=true&v=1" alt="GitHub Streak" />
       </td>
       <!-- දකුණු පැත්තේ Streak Card එක -->
       <td valign="top" style="border: none;">
