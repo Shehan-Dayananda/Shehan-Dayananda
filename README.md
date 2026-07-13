@@ -51,7 +51,22 @@ I thrive at the sweet spot where **creative visualization meets interactive code
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shehan-Dayananda&theme=tokyonight&area=true&category=commits" width="100%" />
   
   <br/><br/>
-  
+  ## 🌟 Featured Projects & Showcases
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" style="border: none; padding-right: 10px;">
+      <a href="https://github.com/Shehan-Dayananda/dakshaya-lk">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shehan-Dayananda&repo=dakshaya-lk&theme=tokyonight&show_owner=true" alt="Dakshaya.LK" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding-left: 10px;">
+      <a href="https://github.com/Shehan-Dayananda/bus-tracking-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shehan-Dayananda&repo=bus-tracking-app&theme=tokyonight&show_owner=true" alt="Bus Tracking App" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
   <table width="100%">
     <tr>
       <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Shehan-Dayananda&show_icons=true&theme=tokyonight&count_private=true" width="100%" /></td>
