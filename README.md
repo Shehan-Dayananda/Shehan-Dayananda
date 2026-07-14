@@ -11,6 +11,11 @@
 
 <div align="center">
 
+<!-- 4. WALKING SPIDER-MAN ANIMATION -->
+  <p align="center">
+    <img src="spiderman.gif" width="90" alt="Walking Spider-Man" />
+  </p>
+
   <!-- 1. Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=AM+I+AN+EXTRAORDINARY+MAN%3F;YES;AM+I+AN+ORDINARY+MAN%3F;YES;I'M+BOTH%2C+I'M+NEITHER.;BUT+AREN'T+WE+ALL%3F" alt="Typing Quote" />
 
