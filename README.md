@@ -5,25 +5,28 @@
   <img alt="Shehan Dayananda Premium Header" src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/dark.svg" width="100%">
 </picture>
 
----
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
+<br><br>
+
 <div align="center">
 
-  <!-- 1.  -->
+  <!-- 1. Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=AM+I+AN+EXTRAORDINARY+MAN%3F;YES;AM+I+AN+ORDINARY+MAN%3F;YES;I'M+BOTH%2C+I'M+NEITHER.;BUT+AREN'T+WE+ALL%3F" alt="Typing Quote" />
 
-  <!-- 2.  -->
-  <br>
+  <!-- 2. Spacing -->
+  <br><br>
 
-  <!-- 3. Badges  -->
+  <!-- 3. Badges -->
   <img src="https://img.shields.io/badge/PROFILE_VIEWS-952-333333?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/badge/FOLLOWERS-1-00AAFF?style=for-the-badge" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/badge/FOCUS-CREATIVE_CODE_%2B_3D_ART-2EA44F?style=for-the-badge" alt="Focus" />
 
-  <br>
+  <br><br>
 
-  <!-- 4. Animate  -->
+  <!-- 4. Animated Line Below Badges -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 
 </div>
@@ -38,7 +41,9 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 * **UI/UX Engineering:** Crafting research-driven wireframes, high-fidelity responsive web layout maps, and scalable design systems.
 * **Frontend Development:** Translating premium aesthetic designs into interactive, smooth web apps using modern JavaScript frameworks like **React**.
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
+<br><br>
 
 ## Creative Showcase (My Masterpieces)
 
@@ -59,7 +64,9 @@ I thrive at the sweet spot where **creative visualization meets interactive code
   </tr>
 </table>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
+<br><br>
 
 ## The Tech & Design Stack
 
@@ -67,7 +74,10 @@ I thrive at the sweet spot where **creative visualization meets interactive code
   <img src="https://skillicons.dev/icons?i=blender,figma,java,react,unity,js,ts,nodejs,php,laravel,mongodb,html,css,git,vscode" alt="My Tech & Design Stack" />
 </p>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
+<br><br>
+
 ## GitHub Analytics
 
 <div align="center">
@@ -75,7 +85,7 @@ I thrive at the sweet spot where **creative visualization meets interactive code
     <tr>
       <!--Stats Card -->
       <td valign="top" style="border: none;">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shehan-Dayananda&show_icons=true&theme=gotham" alt="Shehan's Stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shehan-Dayananda&show_icons=true&theme=gotham" alt="Shehan's Stats" />
       </td>
       <!-- Streak Card  -->
       <td valign="top" style="border: none;">
@@ -91,7 +101,10 @@ I thrive at the sweet spot where **creative visualization meets interactive code
   <!-- Neon Green Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehan-dayananda&theme=react-dark&color=2ea44f&line=2ea44f&point=2ea44f&bg_color=0d1117&hide_border=true&v=6" alt="Shehan's Activity Graph" width="100%" />
 </div>
----
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
+<br><br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/purple_line.png" width="100%" />
