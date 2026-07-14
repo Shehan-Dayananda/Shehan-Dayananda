@@ -15,7 +15,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=AM+I+AN+EXTRAORDINARY+MAN%3F;YES;AM+I+AN+ORDINARY+MAN%3F;YES;I'M+BOTH%2C+I'M+NEITHER.;BUT+AREN'T+WE+ALL%3F" alt="Typing Quote" />
 
   <!-- 2. Spacing -->
-  <br><br>
+  <br>
 
   <!-- 3. Badges -->
   <img src="https://img.shields.io/badge/PROFILE_VIEWS-952-333333?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
@@ -43,7 +43,7 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
-<br><br>
+<br>
 
 ## Creative Showcase (My Masterpieces)
 
@@ -66,7 +66,7 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
-<br><br>
+<br>
 
 ## The Tech & Design Stack
 
@@ -76,7 +76,7 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
-<br><br>
+<br>
 
 ## GitHub Analytics
 
