@@ -27,7 +27,7 @@
 <!-- NEW CHARACTER DUAL-GIF LAYOUT -->
 <p align="center">
   <img src="Wolverine 90s Marvel X-Men vs Capcom GIF!.gif" width="60" alt="Wolverine Left" style="display:inline-block; margin-right: 15px;" />
-  <img src="spiderman_pixel.gif" width="60" alt="Spider-Man Right" style="display:inline-block; margin-left: 15px;" />
+  <img src="Hulk.gif" width="60" alt="Hulk Right" style="display:inline-block; margin-left: 15px;" />
 </p>
 
   <br>
