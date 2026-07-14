@@ -8,13 +8,13 @@
 ---
 <div align="center">
 
-  <!-- 1. Table එක නැතිව පිරිසිදුවට පේන ටයිපින් ඇනිමේෂන් එක -->
+  <!-- 1.  -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=AM+I+AN+EXTRAORDINARY+MAN%3F;YES;AM+I+AN+ORDINARY+MAN%3F;YES;I'M+BOTH%2C+I'M+NEITHER.;BUT+AREN'T+WE+ALL%3F" alt="Typing Quote" />
 
-  <!-- 2. ටෙක්ස්ට් එක සහ Badges අතර පරතරය ලස්සනට අඩු කළා -->
+  <!-- 2.  -->
   <br><br>
 
-  <!-- 3. Badges ටික -->
+  <!-- 3. Badges-->
   <img src="https://img.shields.io/badge/PROFILE_VIEWS-952-333333?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/badge/FOLLOWERS-1-00AAFF?style=for-the-badge" alt="Followers" />
@@ -23,8 +23,7 @@
 
 </div>
 
-<!-- 4. යටින් තියෙන වෙන් කරන රේඛාව (Horizontal Line) -->
-<br><br>
+<!-- 4.  -->
 <hr>
 <br>
 
