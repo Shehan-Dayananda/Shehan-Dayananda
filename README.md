@@ -24,10 +24,12 @@
   &nbsp;
   <img src="https://img.shields.io/badge/FOCUS-CREATIVE_CODE_%2B_3D_ART-2EA44F?style=for-the-badge" alt="Focus" />
   <br>
-<!-- 4. WALKING SPIDER ANIMATION -->
+<!-- 4. WALKING Wolverin ANIMATION -->
   <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnk3cW15cnN4b3Z5bnd5dzB5d3N5eDR5M3N5eDR5M3N5ZDR5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3R9/3o7TKSjRrfIPjei1nG/giphy.gif" width="60" alt="Walking Spider" />
+    <img src="WOLVERINEHOLIC.gif" width="70" alt="Wolverine"" />
   </p>
+
+  <br>
   <!-- 4. Animated Line Below Badges -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 
