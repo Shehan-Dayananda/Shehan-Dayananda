@@ -23,14 +23,13 @@
   <img src="https://img.shields.io/badge/FOLLOWERS-1-00AAFF?style=for-the-badge" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/badge/FOCUS-CREATIVE_CODE_%2B_3D_ART-2EA44F?style=for-the-badge" alt="Focus" />
-  <br>
+  <br><br>
 <!-- NEW CHARACTER DUAL-GIF LAYOUT -->
 <p align="center">
   <img src="Wolverine 90s Marvel X-Men vs Capcom GIF!.gif" width="60" alt="Wolverine Left" style="display:inline-block; margin-right: 15px;" />
   <img src="Hulk.gif" width="60" alt="Hulk Right" style="display:inline-block; margin-left: 15px;" />
 </p>
 
-  <br>
   <!-- 4. Animated Line Below Badges -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 
