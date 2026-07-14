@@ -21,8 +21,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/FOCUS-CREATIVE_CODE_%2B_3D_ART-2EA44F?style=for-the-badge" alt="Focus" />
 
-  <br><br>
-
   <!-- 4. සාමාන්‍ය ලයින් එක වෙනුවට දාපු ලස්සනට Animate වෙන Loading/Neon Line එක -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 
