@@ -6,6 +6,39 @@
 </picture>
 
 ---
+<div align="center">
+
+  <!-- 1. AM I AN EXTRAORDINARY MAN? (Rathu) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=AM+I+AN+EXTRAORDINARY+MAN%3F" alt="Typing SVG 1" />
+
+  <!-- 2. YES (Sudu) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=YES" alt="Typing SVG 2" />
+
+  <!-- 3. AM I AN ORDINARY MAN? (Rathu) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=AM+I+AN+ORDINARY+MAN%3F" alt="Typing SVG 3" />
+
+  <!-- 4. YES (Sudu) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=YES" alt="Typing SVG 4" />
+
+  <!-- 5. I'M BOTH, (Rathu) & I'M NEITHER. (Sudu) එකම පේළියේ -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF0000&center=false&vCenter=true&width=130&lines=I'M+BOTH%2C" alt="Typing SVG 5" style="display:inline-block; vertical-align:middle;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FFFFFF&center=false&vCenter=true&width=180&lines=+I'M+NEITHER." alt="Typing SVG 6" style="display:inline-block; vertical-align:middle;" />
+  </p>
+
+  <!-- 6. BUT AREN'T WE ALL? (Rathu) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=FF0000&center=true&vCenter=true&width=700&lines=BUT+AREN'T+WE+ALL%3F" alt="Typing SVG 7" />
+
+  <br><br>
+
+  <!-- Badges ටික (පරණ විදිහටම යටින් තියෙනවා) -->
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-952-333333?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/FOLLOWERS-1-00AAFF?style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/badge/FOCUS-CREATIVE_CODE_%2B_3D_ART-2EA44F?style=for-the-badge" alt="Focus" />
+
+</div>
+
+<br>
 
 ## About My Craft
 
