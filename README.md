@@ -137,7 +137,5 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/purple_line.png" width="100%" />
-  <br/>
-  <h3>⚡ "Simplicity is the ultimate sophistication." ⚡</h3>
+
 </div>
