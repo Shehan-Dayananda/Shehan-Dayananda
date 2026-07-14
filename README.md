@@ -128,7 +128,7 @@ I thrive at the sweet spot where **creative visualization meets interactive code
   <a href="https://steamcommunity.com/profiles/76561199210860059/" target="_blank" style="text-decoration: none;">
     <img src="steam.png" width="58" alt="Steam" style="margin: 0 8px; display: inline-block;" />
   </a>
-  <a href="https://youtube.com/@ShehanDayananda" target="_blank" style="text-decoration: none;">
+  <a href="https://youtube.com/@shehan.dayananda?si=_mzeRlML_N86sqWF" target="_blank" style="text-decoration: none;">
     <img src="youtube.png" width="58" alt="YouTube" style="margin: 0 8px; display: inline-block;" />
   </a>
 
