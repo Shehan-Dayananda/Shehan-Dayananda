@@ -26,7 +26,7 @@
   <br>
 <!-- 4. WALKING WOLVERINE ANIMATION (LEFT TO RIGHT) -->
   <marquee direction="left" scrollamount="5" behavior="scroll" style="width: 100%;">
-    <img src="WOLVERINEHOLIC.gif" width="70" alt="Wolverine Walking" />
+    <img src="Wolverine 90s Marvel X-Men vs Capcom GIF!.gif" width="70" alt="Wolverine Walking" />
   </marquee>
 
   <br>
