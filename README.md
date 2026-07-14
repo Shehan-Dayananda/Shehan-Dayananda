@@ -7,31 +7,41 @@
 
 ---
 <div align="center">
+  <!-- එකම පේළියක එකක් උඩ එකක් ප්ලේ වෙන්න හදපු Container එක -->
+  <div style="position: relative; width: 100%; height: 40px;">
+    <!-- 1. AM I AN EXTRAORDINARY MAN? (Rathu) -->
+    <div style="position: absolute; width: 100%; top: 0; left: 0;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=AM+I+AN+EXTRAORDINARY+MAN%3F" alt="1" />
+    </div>
+    <!-- 2. YES (Sudu) - Delay එකක් සහිතව පටන් ගනී -->
+    <div style="position: absolute; width: 100%; top: 0; left: 0;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&delay=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=YES" alt="2" />
+    </div>
+    <!-- 3. AM I AN ORDINARY MAN? (Rathu) -->
+    <div style="position: absolute; width: 100%; top: 0; left: 0;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&delay=6500&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=AM+I+AN+ORDINARY+MAN%3F" alt="3" />
+    </div>
+    <!-- 4. YES (Sudu) -->
+    <div style="position: absolute; width: 100%; top: 0; left: 0;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&delay=10500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=YES" alt="4" />
+    </div>
+    <!-- 5. I'M BOTH, I'M NEITHER. (Rathu/Sudu) -->
+    <div style="position: absolute; width: 100%; top: 0; left: 0;">
+      <div align="center" style="display: flex; justify-content: center; align-items: center; width: 100%;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&delay=13000&pause=1000&color=FF0000&center=false&vCenter=true&width=135&lines=I'M+BOTH%2C" alt="5" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&delay=13000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=180&lines=+I'M+NEITHER." alt="6" />
+      </div>
+    </div>
+    <!-- 6. BUT AREN'T WE ALL? (Rathu) -->
+    <div style="position: absolute; width: 100%; top: 0; left: 0;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&delay=16000&pause=3000&color=FF0000&center=true&vCenter=true&width=1000&lines=BUT+AREN'T+WE+ALL%3F" alt="7" />
+    </div>
 
-  <!-- 1. AM I AN EXTRAORDINARY MAN? (Rathu) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=AM+I+AN+EXTRAORDINARY+MAN%3F" alt="Typing SVG 1" />
-
-  <!-- 2. YES (Sudu) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=YES" alt="Typing SVG 2" />
-
-  <!-- 3. AM I AN ORDINARY MAN? (Rathu) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=AM+I+AN+ORDINARY+MAN%3F" alt="Typing SVG 3" />
-
-  <!-- 4. YES (Sudu) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=YES" alt="Typing SVG 4" />
-
-  <!-- 5. I'M BOTH, (Rathu) & I'M NEITHER. (Sudu) එකම පේළියේ -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF0000&center=false&vCenter=true&width=130&lines=I'M+BOTH%2C" alt="Typing SVG 5" style="display:inline-block; vertical-align:middle;" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FFFFFF&center=false&vCenter=true&width=180&lines=+I'M+NEITHER." alt="Typing SVG 6" style="display:inline-block; vertical-align:middle;" />
-  </p>
-
-  <!-- 6. BUT AREN'T WE ALL? (Rathu) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=FF0000&center=true&vCenter=true&width=700&lines=BUT+AREN'T+WE+ALL%3F" alt="Typing SVG 7" />
+  </div>
 
   <br><br>
 
-  <!-- Badges ටික (පරණ විදිහටම යටින් තියෙනවා) -->
+  <!-- Badges ටික යටින් ලස්සනට -->
   <img src="https://img.shields.io/badge/PROFILE_VIEWS-952-333333?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
   <img src="https://img.shields.io/badge/FOLLOWERS-1-00AAFF?style=for-the-badge" alt="Followers" />
   <img src="https://img.shields.io/badge/FOCUS-CREATIVE_CODE_%2B_3D_ART-2EA44F?style=for-the-badge" alt="Focus" />
