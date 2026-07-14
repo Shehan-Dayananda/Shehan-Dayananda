@@ -8,8 +8,8 @@
 ---
 <div align="center">
 
-  <!-- එකම පේළියක මාරුවෙන් මාරුවට ටයිප් වෙන තනි SVG එක -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=700&lines=AM+I+AN+EXTRAORDINARY+MAN%3F;YES;AM+I+AN+ORDINARY+MAN%3F;YES;I'M+BOTH%2C+I'M+NEITHER.;BUT+AREN'T+WE+ALL%3F" alt="Typing Quote" />
+  <!-- අකුරු ලොකු කරපු, රතු පාටින් තනි පේළියක මාරුවෙන් මාරුවට ටයිප් වෙන SVG එක -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=AM+I+AN+EXTRAORDINARY+MAN%3F;YES;AM+I+AN+ORDINARY+MAN%3F;YES;I'M+BOTH%2C+I'M+NEITHER.;BUT+AREN'T+WE+ALL%3F" alt="Typing Quote" />
 
   <br><br>
 
