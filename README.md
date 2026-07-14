@@ -8,22 +8,22 @@
 ---
 <div align="center">
 
-  <!-- 1. ටයිපින් ඇනිමේෂන් එක -->
+  <!-- 1.  -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=AM+I+AN+EXTRAORDINARY+MAN%3F;YES;AM+I+AN+ORDINARY+MAN%3F;YES;I'M+BOTH%2C+I'M+NEITHER.;BUT+AREN'T+WE+ALL%3F" alt="Typing Quote" />
 
-  <!-- 2. ටෙක්ස්ට් එක සහ Badges අතර පරතරය -->
-  <br><br>
+  <!-- 2.  -->
+  <br>
 
-  <!-- 3. Badges ටික -->
+  <!-- 3. Badges  -->
   <img src="https://img.shields.io/badge/PROFILE_VIEWS-952-333333?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/badge/FOLLOWERS-1-00AAFF?style=for-the-badge" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/badge/FOCUS-CREATIVE_CODE_%2B_3D_ART-2EA44F?style=for-the-badge" alt="Focus" />
 
-  <br><br>
+  <br>
 
-  <!-- 4. Animate වන Neon Line එක -->
+  <!-- 4. Animate  -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 
 </div>
