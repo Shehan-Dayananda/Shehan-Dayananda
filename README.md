@@ -8,18 +8,30 @@
 ---
 <div align="center">
 
-  <!-- වටේට Outline / Border එකක් දාපු Typing SVG එක -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=AM+I+AN+EXTRAORDINARY+MAN%3F;YES;AM+I+AN+ORDINARY+MAN%3F;YES;I'M+BOTH%2C+I'M+NEITHER.;BUT+AREN'T+WE+ALL%3F" 
-       alt="Typing Quote" 
-       style="border: 2px solid #2ea44f; border-radius: 8px; padding: 15px; background-color: #0d1117; display: block; margin-bottom: 20px;" />
+  <!-- 1. බෝඩර් එක සහිත ටයිපින් ඇනිමේෂන් එක -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=AM+I+AN+EXTRAORDINARY+MAN%3F;YES;AM+I+AN+ORDINARY+MAN%3F;YES;I'M+BOTH%2C+I'M+NEITHER.;BUT+AREN'T+WE+ALL%3F" alt="Typing Quote" />
+      </td>
+    </tr>
+  </table>
 
-  <!-- Badges ටික යටින් -->
+  <!-- 2. Badges වලට උඩින් පරතරය -->
+  <br><br><br>
+
+  <!-- 3. Badges ටික -->
   <img src="https://img.shields.io/badge/PROFILE_VIEWS-952-333333?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
+  &nbsp;
   <img src="https://img.shields.io/badge/FOLLOWERS-1-00AAFF?style=for-the-badge" alt="Followers" />
+  &nbsp;
   <img src="https://img.shields.io/badge/FOCUS-CREATIVE_CODE_%2B_3D_ART-2EA44F?style=for-the-badge" alt="Focus" />
 
 </div>
 
+<!-- 4. Badges වලට යටින් පරතරය සහ වෙන් කරන රේඛාව (Horizontal Line) -->
+<br><br>
+<hr>
 <br>
 ---
 
