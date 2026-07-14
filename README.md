@@ -8,8 +8,8 @@
 ---
 <div align="center">
 
-  <!-- ප්‍රශ්නෙයි උත්තරෙයි දෙකම එකම වෙලාවට පේළි දෙකකින් ලස්සනට මාරු වෙන තනි SVG එක -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1500&color=2EA44F&center=true&vCenter=true&width=700&multiline=true&lines=AM+I+AN+EXTRAORDINARY+MAN%3F%5CnYES;AM+I+AN+ORDINARY+MAN%3F%5CnYES;I'M+BOTH%2C%5CnI'M+NEITHER.;BUT+AREN'T+WE+ALL%3F" alt="Typing Quote" />
+  <!-- එකම පේළියක මාරුවෙන් මාරුවට ටයිප් වෙන තනි SVG එක -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=700&lines=AM+I+AN+EXTRAORDINARY+MAN%3F;YES;AM+I+AN+ORDINARY+MAN%3F;YES;I'M+BOTH%2C+I'M+NEITHER.;BUT+AREN'T+WE+ALL%3F" alt="Typing Quote" />
 
   <br><br>
 
