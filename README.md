@@ -26,7 +26,7 @@
   <br>
 <!-- 4. WALKING SPIDER ANIMATION -->
   <p align="center">
-    <img src="https://runesoup.com/wp-content/uploads/2015/09/spider_walk_md_wht.gif" width="80" alt="Walking Spider" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnk3cW15cnN4b3Z5bnd5dzB5d3N5eDR5M3N5eDR5M3N5ZDR5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3R9/3o7TKSjRrfIPjei1nG/giphy.gif" width="60" alt="Walking Spider" />
   </p>
   <!-- 4. Animated Line Below Badges -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
