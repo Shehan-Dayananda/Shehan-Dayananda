@@ -24,10 +24,11 @@
   &nbsp;
   <img src="https://img.shields.io/badge/FOCUS-CREATIVE_CODE_%2B_3D_ART-2EA44F?style=for-the-badge" alt="Focus" />
   <br>
-<!-- 4. WALKING WOLVERINE ANIMATION (LEFT TO RIGHT) -->
-  <marquee direction="left" scrollamount="5" behavior="scroll" style="width: 100%;">
-    <img src="Wolverine 90s Marvel X-Men vs Capcom GIF!.gif" width="70" alt="Wolverine Walking" />
-  </marquee>
+<!-- NEW CHARACTER DUAL-GIF LAYOUT -->
+<p align="center">
+  <img src="Wolverine 90s Marvel X-Men vs Capcom GIF!.gif" width="60" alt="Wolverine Left" style="display:inline-block; margin-right: 15px;" />
+  <img src="spiderman_pixel.gif" width="60" alt="Spider-Man Right" style="display:inline-block; margin-left: 15px;" />
+</p>
 
   <br>
   <!-- 4. Animated Line Below Badges -->
