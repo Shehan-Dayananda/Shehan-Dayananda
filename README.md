@@ -23,7 +23,7 @@ I thrive at the sweet spot where **creative visualization meets interactive code
   <tr>
     <td width="33.33%" align="center" valign="top">
       <b>UI/UX Interfaces</b><br/><br/>
-      <img src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/image_2.png" alt="UI Design Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/>
+      <video src="https://raw.githubusercontent.com/Shehan-Dayananda/Shehan-Dayananda/main/https://github.com/user-attachments/assets/ef8daec1-b1cb-4da2-9c15-5473684c5d29" alt="UI Design Showcase" width="100%" style="border-radius: 8px; border: 1px solid #30363d;"/></video>
     </td>
     <td width="33.33%" align="center" valign="top">
       <b>3D & Blender Space</b><br/><br/>
