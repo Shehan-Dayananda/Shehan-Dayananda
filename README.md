@@ -8,13 +8,8 @@
 ---
 <div align="center">
 
-  <!-- 1. උඩ පේළිය: ප්‍රශ්න සහ රතු පාට වාක්‍ය ටික විතරක් (ලස්සනට පියවර 4 කින්) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=AM+I+AN+EXTRAORDINARY+MAN%3F;AM+I+AN+ORDINARY+MAN%3F;I'M+BOTH%2C;BUT+AREN'T+WE+ALL%3F" alt="Questions Row" />
-
-  <br>
-
-  <!-- 2. යට පේළිය: ඒ ඒ ප්‍රශ්නෙට හරියටම මැච් වෙන සුදු පාට උත්තර ටික (සමාන පියවර 4 කින් සහ Delay එකක් සමඟ) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&delay=1500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=YES;YES;I'M+NEITHER.;" alt="Answers Row" />
+  <!-- ප්‍රශ්නෙයි උත්තරෙයි දෙකම එකම වෙලාවට පේළි දෙකකින් ලස්සනට මාරු වෙන තනි SVG එක -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1500&color=2EA44F&center=true&vCenter=true&width=700&multiline=true&lines=AM+I+AN+EXTRAORDINARY+MAN%3F%5CnYES;AM+I+AN+ORDINARY+MAN%3F%5CnYES;I'M+BOTH%2C%5CnI'M+NEITHER.;BUT+AREN'T+WE+ALL%3F" alt="Typing Quote" />
 
   <br><br>
 
