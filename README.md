@@ -114,25 +114,25 @@ I thrive at the sweet spot where **creative visualization meets interactive code
   
   <br/>
 
-  <!-- 100% WORKING BRAND COLORED SOCIAL ICONS -->
+  <!-- 100% SECURE SELF-HOSTED ICONS -->
   <a href="https://www.linkedin.com/in/shehan-dayananda-451ba4299/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn" />
+    <img src="linkedin.png" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dribbble.com/Thisaru6" target="_blank">
-    <img src="https://cdn.simpleicons.org/dribbble/EA4C89" width="38" alt="Dribbble" />
+    <img src="dribbble.png" width="40" alt="Dribbble" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/shehan__dayananda?igsh=MW94NjdyeGd6cnc2dQ==" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" alt="Instagram" />
+    <img src="instagram.png" width="40" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://steamcommunity.com/profiles/76561199210860059/" target="_blank">
-    <img src="https://cdn.simpleicons.org/steam/171a21" width="38" alt="Steam" />
+    <img src="steam.png" width="40" alt="Steam" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://youtube.com/@ShehanDayananda" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="38" alt="YouTube" />
+    <img src="youtube.png" width="40" alt="YouTube" />
   </a>
 
 </div>
