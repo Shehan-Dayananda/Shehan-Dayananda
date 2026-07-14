@@ -108,26 +108,31 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 <br><br>
-## 🔍 How can you find me?
+<!-- HOW CAN YOU FIND ME SECTION -->
+<div align="center">
 
-<br/>
+  <h2>🔍 How can you find me?</h2>
+  
+  <br/>
 
-<!-- LARGER ICONS WITH SMALLER GAPS (LEFT ALIGNED) -->
-<a href="https://www.linkedin.com/in/shehan-dayananda-451ba4299/" target="_blank">
-  <img src="linkedin.png" width="50" alt="LinkedIn" style="margin-right: 12px;" />
-</a>
-<a href="https://dribbble.com/Thisaru6" target="_blank">
-  <img src="dribbble.png" width="50" alt="Dribbble" style="margin-right: 12px;" />
-</a>
-<a href="https://www.instagram.com/shehan__dayananda?igsh=MW94NjdyeGd6cnc2dQ==" target="_blank">
-  <img src="instagram.png" width="50" alt="Instagram" style="margin-right: 12px;" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561199210860059/" target="_blank">
-  <img src="steam.png" width="50" alt="Steam" style="margin-right: 12px;" />
-</a>
-<a href="https://youtube.com/@ShehanDayananda" target="_blank">
-  <img src="youtube.png" width="50" alt="YouTube" />
-</a>
+  <!-- LARGER ICONS, NO UNDERLINES, PERFECTLY CENTERED -->
+  <a href="https://www.linkedin.com/in/shehan-dayananda-451ba4299/" target="_blank" style="text-decoration: none;">
+    <img src="linkedin.png" width="58" alt="LinkedIn" style="margin: 0 8px; display: inline-block;" />
+  </a>
+  <a href="https://dribbble.com/Thisaru6" target="_blank" style="text-decoration: none;">
+    <img src="dribbble.png" width="58" alt="Dribbble" style="margin: 0 8px; display: inline-block;" />
+  </a>
+  <a href="https://www.instagram.com/shehan__dayananda?igsh=MW94NjdyeGd6cnc2dQ==" target="_blank" style="text-decoration: none;">
+    <img src="instagram.png" width="58" alt="Instagram" style="margin: 0 8px; display: inline-block;" />
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561199210860059/" target="_blank" style="text-decoration: none;">
+    <img src="steam.png" width="58" alt="Steam" style="margin: 0 8px; display: inline-block;" />
+  </a>
+  <a href="https://youtube.com/@ShehanDayananda" target="_blank" style="text-decoration: none;">
+    <img src="youtube.png" width="58" alt="YouTube" style="margin: 0 8px; display: inline-block;" />
+  </a>
+
+</div>
 
 <br/>
 <div align="center">
