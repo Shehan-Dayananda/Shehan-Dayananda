@@ -114,25 +114,25 @@ I thrive at the sweet spot where **creative visualization meets interactive code
   
   <br/>
 
-  <!-- PREMIUM SOCIAL ICONS -->
+  <!-- 100% WORKING BRAND COLORED SOCIAL ICONS -->
   <a href="https://www.linkedin.com/in/shehan-dayananda-451ba4299/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dribbble.com/Thisaru6" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dribbble" width="45" alt="Dribbble" />
+    <img src="https://cdn.simpleicons.org/dribbble/EA4C89" width="38" alt="Dribbble" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/shehan__dayananda?igsh=MW94NjdyeGd6cnc2dQ==" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://steamcommunity.com/profiles/76561199210860059/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=steam" width="45" alt="Steam" />
+    <img src="https://cdn.simpleicons.org/steam/171a21" width="38" alt="Steam" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://youtube.com/@ShehanDayananda" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="45" alt="YouTube" />
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="38" alt="YouTube" />
   </a>
 
 </div>
