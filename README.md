@@ -108,7 +108,34 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 <br><br>
+<div align="center">
 
+  <h3>🔍 How can you find me?</h3>
+  
+  <br/>
+
+  <!-- PREMIUM SOCIAL ICONS -->
+  <a href="https://www.linkedin.com/in/shehan-dayananda-451ba4299/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dribbble.com/Thisaru6" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dribbble" width="45" alt="Dribbble" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/shehan__dayananda?igsh=MW94NjdyeGd6cnc2dQ==" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://steamcommunity.com/profiles/76561199210860059/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=steam" width="45" alt="Steam" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://youtube.com/@ShehanDayananda" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" width="45" alt="YouTube" />
+  </a>
+
+</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/purple_line.png" width="100%" />
   <br/>
