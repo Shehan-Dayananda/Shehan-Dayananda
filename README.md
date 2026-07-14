@@ -24,10 +24,10 @@
   &nbsp;
   <img src="https://img.shields.io/badge/FOCUS-CREATIVE_CODE_%2B_3D_ART-2EA44F?style=for-the-badge" alt="Focus" />
   <br>
-<!-- 4. WALKING Wolverin ANIMATION -->
-  <p align="center">
-    <img src="WOLVERINEHOLIC.gif" width="70" alt="Wolverine"" />
-  </p>
+<!-- 4. WALKING WOLVERINE ANIMATION (LEFT TO RIGHT) -->
+  <marquee direction="left" scrollamount="5" behavior="scroll" style="width: 100%;">
+    <img src="WOLVERINEHOLIC.gif" width="70" alt="Wolverine Walking" />
+  </marquee>
 
   <br>
   <!-- 4. Animated Line Below Badges -->
