@@ -8,10 +8,10 @@
 ---
 <div align="center">
 
-  <!-- අකුරු ලොකු කරපු, රතු පාටින් තනි පේළියක මාරුවෙන් මාරුවට ටයිප් වෙන SVG එක -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=AM+I+AN+EXTRAORDINARY+MAN%3F;YES;AM+I+AN+ORDINARY+MAN%3F;YES;I'M+BOTH%2C+I'M+NEITHER.;BUT+AREN'T+WE+ALL%3F" alt="Typing Quote" />
-
-  <br><br>
+  <!-- වටේට Outline / Border එකක් දාපු Typing SVG එක -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=AM+I+AN+EXTRAORDINARY+MAN%3F;YES;AM+I+AN+ORDINARY+MAN%3F;YES;I'M+BOTH%2C+I'M+NEITHER.;BUT+AREN'T+WE+ALL%3F" 
+       alt="Typing Quote" 
+       style="border: 2px solid #2ea44f; border-radius: 8px; padding: 15px; background-color: #0d1117; display: block; margin-bottom: 20px;" />
 
   <!-- Badges ටික යටින් -->
   <img src="https://img.shields.io/badge/PROFILE_VIEWS-952-333333?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
@@ -21,6 +21,8 @@
 </div>
 
 <br>
+---
+
 ## About My Craft
 
 I thrive at the sweet spot where **creative visualization meets interactive code**. I don't just build components—I design immersive digital environments, pixel-perfect interfaces, and highly performant frontend systems. 
