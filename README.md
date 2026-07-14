@@ -8,13 +8,13 @@
 ---
 <div align="center">
 
-  <!-- 1. උඩ පේළිය: ප්‍රශ්න සහ රතු පාට වාක්‍ය ටික විතරක් මාරුවෙන් මාරුවට -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=AM+I+AN+EXTRAORDINARY+MAN%3F;AM+I+AN+ORDINARY+MAN%3F;I'M+BOTH%2C;BUT+AREN'T+WE+ALL%3F" alt="Questions Row" />
+  <!-- 1. උඩ පේළිය: ප්‍රශ්න සහ රතු පාට වාක්‍ය ටික විතරක් (ලස්සනට පියවර 4 කින්) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=AM+I+AN+EXTRAORDINARY+MAN%3F;AM+I+AN+ORDINARY+MAN%3F;I'M+BOTH%2C;BUT+AREN'T+WE+ALL%3F" alt="Questions Row" />
 
   <br>
 
-  <!-- 2. යට පේළිය: උත්තර සහ සුදු පාට වාක්‍ය ටික විතරක් ඒ වේගයෙන්ම (Delay එකක් සහිතව) මාරුවෙන් මාරුවට -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&delay=1500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=YES;YES;I'M+NEITHER." alt="Answers Row" />
+  <!-- 2. යට පේළිය: ඒ ඒ ප්‍රශ්නෙට හරියටම මැච් වෙන සුදු පාට උත්තර ටික (සමාන පියවර 4 කින් සහ Delay එකක් සමඟ) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&delay=1500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=YES;YES;I'M+NEITHER.;" alt="Answers Row" />
 
   <br><br>
 
@@ -26,7 +26,6 @@
 </div>
 
 <br>
-
 ## About My Craft
 
 I thrive at the sweet spot where **creative visualization meets interactive code**. I don't just build components—I design immersive digital environments, pixel-perfect interfaces, and highly performant frontend systems. 
