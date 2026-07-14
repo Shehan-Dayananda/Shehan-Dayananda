@@ -111,7 +111,7 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 <!-- HOW CAN YOU FIND ME SECTION -->
 <div align="center">
 
-  <h2>🔍 How can you find me?</h2>
+  <h2>How can you find me?</h2>
   
   <br/>
 
