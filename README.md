@@ -108,34 +108,28 @@ I thrive at the sweet spot where **creative visualization meets interactive code
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 <br><br>
-<div align="center">
+## 🔍 How can you find me?
 
-  <h3>🔍 How can you find me?</h3>
-  
-  <br/>
+<br/>
 
-  <!-- 100% SECURE SELF-HOSTED ICONS -->
-  <a href="https://www.linkedin.com/in/shehan-dayananda-451ba4299/" target="_blank">
-    <img src="linkedin.png" width="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dribbble.com/Thisaru6" target="_blank">
-    <img src="dribbble.png" width="40" alt="Dribbble" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/shehan__dayananda?igsh=MW94NjdyeGd6cnc2dQ==" target="_blank">
-    <img src="instagram.png" width="40" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://steamcommunity.com/profiles/76561199210860059/" target="_blank">
-    <img src="steam.png" width="40" alt="Steam" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://youtube.com/@ShehanDayananda" target="_blank">
-    <img src="youtube.png" width="40" alt="YouTube" />
-  </a>
+<!-- LARGER ICONS WITH SMALLER GAPS (LEFT ALIGNED) -->
+<a href="https://www.linkedin.com/in/shehan-dayananda-451ba4299/" target="_blank">
+  <img src="linkedin.png" width="50" alt="LinkedIn" style="margin-right: 12px;" />
+</a>
+<a href="https://dribbble.com/Thisaru6" target="_blank">
+  <img src="dribbble.png" width="50" alt="Dribbble" style="margin-right: 12px;" />
+</a>
+<a href="https://www.instagram.com/shehan__dayananda?igsh=MW94NjdyeGd6cnc2dQ==" target="_blank">
+  <img src="instagram.png" width="50" alt="Instagram" style="margin-right: 12px;" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561199210860059/" target="_blank">
+  <img src="steam.png" width="50" alt="Steam" style="margin-right: 12px;" />
+</a>
+<a href="https://youtube.com/@ShehanDayananda" target="_blank">
+  <img src="youtube.png" width="50" alt="YouTube" />
+</a>
 
-</div>
+<br/>
 <div align="center">
 
 </div>
