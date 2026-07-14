@@ -23,9 +23,11 @@
   <img src="https://img.shields.io/badge/FOLLOWERS-1-00AAFF?style=for-the-badge" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/badge/FOCUS-CREATIVE_CODE_%2B_3D_ART-2EA44F?style=for-the-badge" alt="Focus" />
-
   <br>
-
+<!-- 4. WALKING SPIDER ANIMATION -->
+  <p align="center">
+    <img src="https://runesoup.com/wp-content/uploads/2015/09/spider_walk_md_wht.gif" width="80" alt="Walking Spider" />
+  </p>
   <!-- 4. Animated Line Below Badges -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 
